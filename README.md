@@ -1,4 +1,4 @@
-### Hi!   
+### Hi! I'm a student at 42 Paris
 
 ### If you want know more about my projects, I made a website to explain them!
 
@@ -13,3 +13,7 @@
 <!---
 [![languages usage of the week](https://github-readme-stats.vercel.app/api/wakatime?username=92f00adb-bf2f-4c51-bf24-f7f5908eeee7)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+## Ecole 42 :
+
+[![42 School](https://badge42.herokuapp.com/api/stats/mle-moni?privacyEmail=true)](https://profile.intra.42.fr/users/mle-moni)
