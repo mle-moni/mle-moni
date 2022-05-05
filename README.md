@@ -15,7 +15,3 @@
 
 ## Time spent coding this month
 <img src="https://wakatime.com/share/@92f00adb-bf2f-4c51-bf24-f7f5908eeee7/be52ee7a-f8b1-4ca7-a4c1-4f72f303c042.svg">
-
-## 42 School :
-
-[![42 School](https://badge42.herokuapp.com/api/stats/mle-moni?privacyEmail=true)](https://profile.intra.42.fr/users/mle-moni)
