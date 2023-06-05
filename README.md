@@ -1,4 +1,4 @@
-### Hi! I'm a student at 42 Paris
+### Hi! I'm a full stack developer at @galadrimteam and an ex student at @42Paris
 
 ### If you want know more about my projects, I made a website to explain them!
 
