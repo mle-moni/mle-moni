@@ -1,4 +1,4 @@
-### Hi! I'm a full stack developer at [@galadrim](https://galadrim.fr/) and an ex student at [@42Paris](https://github.com/42Paris)
+### Hi! I'm a tech lead and full stack developer at [@galadrim](https://galadrim.fr/) and an ex student at [@42Paris](https://github.com/42Paris)
 
 ### If you want know more about my projects, I made a website to explain them!
 
