@@ -1,4 +1,4 @@
-### Tech lead, full stack developper and clown at [galadrim](https://galadrim.fr/)
+### Tech lead, full stack developer and clown at [galadrim](https://galadrim.fr/)
 
 
 
